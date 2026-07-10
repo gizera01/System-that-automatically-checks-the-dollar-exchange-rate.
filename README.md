@@ -28,6 +28,5 @@ This script was built to automate the daily task of checking currency exchange r
 ## 📊 Expected Terminal Output
 Once the script finishes running, you will see this output in your terminal:
 ```text
-[Bot de Cotação Executado com Sucesso]
 Valor comercial atual do Dólar: R\$ 5.42
 ```
